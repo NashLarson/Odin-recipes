@@ -1,0 +1,36 @@
+.bold {
+    font-weight: 700;
+    color:blueviolet;
+}
+
+.tangent {
+    font-style: italic;
+    font-size:medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(7, 80, 68)
+}
+
+.background {
+    background-image: url('../Odin-recipes/Food_Pics/cookies_4.jpeg');
+    width: 100vw;
+    height: 200px;
+    background-repeat:repeat-x;
+}
+
+ol li {
+    padding: 10px;
+    width: 150px;
+    height: auto;
+}
+
+.gif {
+    display: inline-block;
+    margin-left: 50vw;
+    width: 500px;
+    height: auto;
+}
+
+.in-line {
+    display: inline-block;
+    border: 1px solid red;
+}
